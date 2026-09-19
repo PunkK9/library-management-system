@@ -38,10 +38,10 @@ Two tables linked by a foreign key:
 4. Log in with:
    - Username: `admin`
    - Password: `library123`
-
+  
 ## Status
 
 Built as a personal exercise in integrating Python with a relational database.
 
 
-1. Install dependencies:
+Built as a personal exercise in integrating Python with a relational database.
