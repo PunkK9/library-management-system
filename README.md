@@ -41,7 +41,5 @@ Two tables linked by a foreign key:
   
 ## Status
 
-Built as a personal exercise in integrating Python with a relational database.
-
 
 Built as a personal exercise in integrating Python with a relational database.
