@@ -43,6 +43,5 @@ Two tables linked by a foreign key:
 
 Built as a personal exercise in integrating Python with a relational database.
 
-## How to Run
 
 1. Install dependencies:
